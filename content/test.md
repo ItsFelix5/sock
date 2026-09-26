@@ -1,2 +1,7 @@
+---json
+{
+  "archived": true
+}
+---
 # Test
 
