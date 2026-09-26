@@ -4,4 +4,4 @@
 }
 ---
 
-Edge cache and realtime gateway
+[Edge cache](https://slack.engineering/flannel-an-application-level-edge-cache-to-make-slack-scale/)
