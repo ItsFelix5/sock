@@ -1,0 +1,17 @@
+{
+  "name": "ID Prefixes",
+  "fields": [
+    {
+      "key": "name",
+      "label": "Meaning",
+      "type": "text",
+      "required": true
+    },
+    {
+      "key": "description",
+      "label": "Prefix",
+      "type": "string",
+      "required": true
+    }
+  ]
+}
