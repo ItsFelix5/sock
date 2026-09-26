@@ -1,0 +1,17 @@
+{
+  "name": "Codenames",
+  "fields": [
+    {
+      "key": "name",
+      "label": "Name",
+      "type": "string",
+      "required": true
+    },
+    {
+      "key": "description",
+      "label": "Description",
+      "type": "richtext",
+      "required": false
+    }
+  ]
+}
