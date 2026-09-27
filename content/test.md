@@ -1,7 +1,0 @@
----json
-{
-  "archived": true
-}
----
-# Test
-
