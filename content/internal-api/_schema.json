@@ -1,0 +1,40 @@
+{
+  "name": "Internal API",
+  "fields": [
+    {
+      "key": "name",
+      "label": "Method",
+      "type": "string",
+      "required": true
+    },
+    {
+      "key": "description",
+      "label": "Params",
+      "type": "text",
+      "required": false
+    },
+    {
+      "key": "r",
+      "label": "Response",
+      "type": "string",
+      "required": false
+    },
+    {
+      "key": "v",
+      "label": "Verified",
+      "type": "enum",
+      "required": true,
+      "options": [
+        "Full",
+        "Partial",
+        "Exists"
+      ]
+    },
+    {
+      "key": "d",
+      "label": "Description",
+      "type": "richtext",
+      "required": false
+    }
+  ]
+}
